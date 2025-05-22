@@ -1,1 +1,3 @@
-hellooooo!!
+Hellooooo!
+Notiz:
+      Ich arbeite grade an meiner ersten GIT-Aufgabe.
